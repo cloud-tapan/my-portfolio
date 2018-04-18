@@ -11,3 +11,4 @@ artifacts:
     -TapanJoshi-Resume.pdf
     -styles/main.css
     -images/*
+    -.gitignore
